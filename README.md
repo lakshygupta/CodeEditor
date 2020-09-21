@@ -7,7 +7,8 @@
 
 ### [Click here](https://jseditor.netlify.app/) to visit the CodeEditor
 <br>
-## To run the Project on your system.
+
+### To run the Project on your system.
 Step 1) Clone the project.<br>
 Step 2) Open in VS code or your preferred code editor.<br>
 Step 3) Open Terminal in directory and write <i>npm install</i><br>
