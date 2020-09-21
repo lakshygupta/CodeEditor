@@ -1,3 +1,19 @@
+# CodeEditor - A Coding Playground
+
+### CodeEditor is developed using ReactJS which allow user to write and edit their code in HTML, CSS and Javascript.<br><br>
+![Image](https://user-images.githubusercontent.com/40179909/93784511-bc96cb80-fc4a-11ea-9d1c-f9c5b96791c3.PNG)<br><br>
+- The code got executed automatically as the user stops to write the code.
+- The website has a Tour button that gives complete guide on how to use the editor.<br>
+
+### [Click here](https://jseditor.netlify.app/) to visit the CodeEditor
+<br>
+## To run the Project on your system.
+Step 1) Clone the project.<br>
+Step 2) Open in VS code or your preferred code editor.<br>
+Step 3) Open Terminal in directory and write <i>npm install</i><br>
+Step 4) Write <i>npm start</i><br>
+<i>Note :- You must have Node.js installed on your system.</i>
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -25,42 +41,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
